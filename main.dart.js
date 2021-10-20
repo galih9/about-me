@@ -52376,7 +52376,7 @@ an(){return new A.D5(A.b(["Stacks Skill","Angular","Ionic","React JS","React Nat
 A.D5.prototype={
 ai(){var s=this.c
 s.toString
-A.wF(B.tb,s)
+A.wF(B.tf,s)
 this.Kh()},
 E(a,b){var s,r,q,p,o,n=this,m=null,l="screenHeight",k="A Frontend Developer who has skills in developing android applications. Have experience developing Web Applications with Angular Ionic, creating mobile applications with React Native and building RESTFull APIs with Express JS.",j=t.w
 n.e=b.G(j).f.a.b
@@ -52385,7 +52385,7 @@ n.d=j
 j=A.a(j,"screenWidth")
 s=n.f_()
 r=n.f_()
-r=A.aO(A.Li(A.x4(n.f_()/2),A.eJ(m,A.Or("about.jpg",B.cy),B.mt,m,m,m,m,m)),s,r)
+r=A.aO(A.Li(A.x4(n.f_()/2),A.eJ(m,A.Or("images/about.jpg",B.cy),B.mt,m,m,m,m,m)),s,r)
 s=A.aO(m,A.a(n.e,l)*0.05,m)
 q=n.c
 q.toString
@@ -52412,17 +52412,17 @@ an(){return new A.Ex(null,B.k)}}
 A.Ex.prototype={
 ai(){var s=this.c
 s.toString
-A.wF(B.tc,s)
+A.wF(B.ta,s)
 s=this.c
 s.toString
-A.wF(B.ta,s)
+A.wF(B.te,s)
 this.Kk()},
 E(a,b){var s,r,q,p,o,n=this,m=null,l="screenWidth",k="screenHeight",j="I was graduated from Muhammadiah Vocational School Majenang in 2017 majoring Software Engineering",i="After graduated from previous school, I'm joining and graduated as Full Stack Developer At Arkademy Bootcamp",h=t.w
 n.e=b.G(h).f.a.b
 h=b.G(h).f.a.a
 n.d=h
 h=A.a(h,l)
-s=n.xm("grad1.jpg")
+s=n.xm("images/grad1.jpg")
 r=A.aO(m,A.a(n.e,k)*0.05,m)
 q=n.c
 q.toString
@@ -52432,7 +52432,7 @@ q=A.a(n.d,l)
 r=A.aO(m,A.a(n.e,k)*0.05,m)
 s=n.c
 s.toString
-q=A.fd(B.a1,A.b([B.eV,B.eW,new A.cG(B.w5,A.jl(A.b([B.b8,h,B.b8,A.m2(A.aO(A.dp(A.b([r,A.cK(i,B.aa,m,A.ib(s),m,m),A.aO(m,A.a(n.e,k)*0.05,m),n.xm("grad2.jpg")],p),B.I,B.L),m,q*0.35),3),B.b8],p),B.I,B.bu,B.ak),m)],p),B.D,B.a9)
+q=A.fd(B.a1,A.b([B.eV,B.eW,new A.cG(B.w5,A.jl(A.b([B.b8,h,B.b8,A.m2(A.aO(A.dp(A.b([r,A.cK(i,B.aa,m,A.ib(s),m,m),A.aO(m,A.a(n.e,k)*0.05,m),n.xm("images/grad2.jpg")],p),B.I,B.L),m,q*0.35),3),B.b8],p),B.I,B.bu,B.ak),m)],p),B.D,B.a9)
 s=A.aO(m,A.a(n.e,k)*0.05,m)
 r=n.c
 r.toString
@@ -52501,17 +52501,17 @@ return a?s*2.25:s},
 Fx(){var s=this.f_(),r=this.f_()
 return A.aO(A.Li(A.x4(this.f_()/2),B.uv),s,r)}}
 A.rn.prototype={
-an(){return new A.GV(A.b([new A.rm("PRUHub","PruHub is Prudential's internal application that aims to facilitate the work of Prudential admins in managing customer data. As a Web Developer and IT Consultant I was able to implemented website maintenance, content management, updates and security resource for PRUVenture, PRULeads Indonesia and GBOP event.","project1.png"),new A.rm("BUMA DPA","BUMA DPA is a Mobile Platform that contains information & applications needed by BUMA employees according to their respective roles. As a Frontend Developer I was able to maintain the application feature that developed with React Native and creating testing environment using Katalon","project2.png")],t.fX),B.k)}}
+an(){return new A.GV(A.b([new A.rm("PRUHub","PruHub is Prudential's internal application that aims to facilitate the work of Prudential admins in managing customer data. As a Web Developer and IT Consultant I was able to implemented website maintenance, content management, updates and security resource for PRUVenture, PRULeads Indonesia and GBOP event.","images/project1.png"),new A.rm("BUMA DPA","BUMA DPA is a Mobile Platform that contains information & applications needed by BUMA employees according to their respective roles. As a Frontend Developer I was able to maintain the application feature that developed with React Native and creating testing environment using Katalon","images/project2.png")],t.fX),B.k)}}
 A.GV.prototype={
 ai(){var s=this,r=s.c
 r.toString
 A.wF(B.td,r)
 r=s.c
 r.toString
-A.wF(B.te,r)
+A.wF(B.tb,r)
 r=s.c
 r.toString
-A.wF(B.tf,r)
+A.wF(B.tc,r)
 s.bK()},
 E(a,b){var s=this,r=t.w
 s.e=b.G(r).f.a.b
@@ -55114,12 +55114,12 @@ B.t6=new A.ly(0,"resumed")
 B.t7=new A.ly(1,"inactive")
 B.t8=new A.ly(2,"paused")
 B.t9=new A.ly(3,"detached")
-B.ta=new A.eE("grad2.jpg",null,null)
-B.tb=new A.eE("about.jpg",null,null)
-B.tc=new A.eE("grad1.jpg",null,null)
-B.td=new A.eE("project1.png",null,null)
-B.te=new A.eE("project2.png",null,null)
-B.tf=new A.eE("project3.jpg",null,null)
+B.ta=new A.eE("images/grad1.jpg",null,null)
+B.tb=new A.eE("images/project2.png",null,null)
+B.tc=new A.eE("images/project3.jpg",null,null)
+B.td=new A.eE("images/project1.png",null,null)
+B.te=new A.eE("images/grad2.jpg",null,null)
+B.tf=new A.eE("images/about.jpg",null,null)
 B.E=new A.lB(0,"up")
 B.Y=new A.lB(1,"right")
 B.F=new A.lB(2,"down")
